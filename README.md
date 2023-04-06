@@ -1,2 +1,2 @@
 # Chariot-Liftop
-Ceci est un projet réaliser surant ma deuxièmes années de BUT GEII
+Ceci est un projet réaliser durant ma deuxièmes années de BUT GEII.
